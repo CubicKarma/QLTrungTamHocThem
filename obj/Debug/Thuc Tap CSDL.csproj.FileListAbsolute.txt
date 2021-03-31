@@ -1,0 +1,124 @@
+D:\Thuc Tap CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+D:\Thuc Tap CSDL\bin\Debug\Thuc Tap CSDL.exe
+D:\Thuc Tap CSDL\bin\Debug\Thuc Tap CSDL.pdb
+D:\Thuc Tap CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.Form1.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\Thuc Tap CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\Thuc Tap CSDL\obj\Debug\Thuc Tap CSDL.exe
+D:\Thuc Tap CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\Thuc Tap CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\Repository files\bin\Debug\Thuc Tap CSDL.exe.config
+D:\Repository files\bin\Debug\Thuc Tap CSDL.exe
+D:\Repository files\bin\Debug\Thuc Tap CSDL.pdb
+D:\Repository files\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.Form1.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\Repository files\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\Repository files\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\Repository files\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\Repository files\obj\Debug\Thuc Tap CSDL.exe
+D:\Repository files\obj\Debug\Thuc Tap CSDL.pdb
+D:\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+D:\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe
+D:\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.pdb
+D:\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
+D:\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+D:\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.pdb
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
+C:\Users\huyhoang\Desktop\Thuc-tap-CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.pdb
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
+D:\QUAN TRỌNG\Thực tập CSDL\TT CSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\Repos\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+D:\Repos\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe
+D:\Repos\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.pdb
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
+D:\Repos\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\TTCSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe.config
+D:\TTCSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.exe
+D:\TTCSDL\Thuc-tap-CSDL\bin\Debug\Thuc Tap CSDL.pdb
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
+D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
