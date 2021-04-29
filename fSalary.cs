@@ -40,12 +40,12 @@ namespace Thuc_Tap_CSDL
         SqlConnection con;
     
 
-        public void Display()
+        public void Display(string code)
         {
-            string sqlCode = "SELECT * FROM GIAOVIEN ";
+            
 
 
-            SqlCommand cmd = new SqlCommand(sqlCode, con);
+            SqlCommand cmd = new SqlCommand(code, con);
             SqlDataReader dataReader = cmd.ExecuteReader();
             DataTable dataTable = new DataTable();
 
@@ -58,14 +58,15 @@ namespace Thuc_Tap_CSDL
         {
             if (cmbSalary_search.SelectedItem == "Mã môn học")
             {
-                string sqlCode2 = "Select * from DBO.FUNC_SEARCH_GV_MAGV('" + txtSalarySearch.Text + "')";
-
+                // string sqlCode2 = "Select * from DBO.FUNC_SEARCH_GV_MAGV('" + txtSalarySearch.Text + "')";
+                string sqlCode2 = "Select MaGiaoVien, TenGiaoVien from GIAOVIEN, MONHOC where GIAOVIEN.MaMonHoc = MONHOC.MaMonHoc and MONHOC.MaMonHoc = '" + txtSalarySearch.Text + "'";
                 SqlCommand cmd = new SqlCommand(sqlCode2, con);
                 cmd.ExecuteNonQuery();
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary.DataSource = dataTable;
+                Display(sqlCode2);
             }
 
             if (cmbSalary_search.SelectedItem == "Tên môn học")
@@ -101,8 +102,8 @@ namespace Thuc_Tap_CSDL
             string conString = ConfigurationManager.ConnectionStrings["QLTrungTamHocThem"].ConnectionString.ToString();
             con = new SqlConnection(conString);
             con.Open();
-
-            Display();
+            string sqlCode = "SELECT * FROM GIAOVIEN ";
+            Display(sqlCode);
             Display1();
         }
 
@@ -177,7 +178,7 @@ namespace Thuc_Tap_CSDL
             txtSalaryBill_datePayFor.Text = "";
             ckbPayed.Text = "đã thu";
             txtSalaryBill_search.Text = "";
-            Display();
+           // Display();
             Display1();
         }
 
@@ -198,7 +199,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary_bill.DataSource = dataTable;
-                dgvSalary.DataSource = dataTable;
+               
             }
 
             if (cmbSalaryBill_search.SelectedItem == "Tổng số buổi dạy")
@@ -211,7 +212,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary_bill.DataSource = dataTable;
-                dgvSalary.DataSource = dataTable;
+                
             }
 
             if (cmbSalaryBill_search.SelectedItem == "Tổng lương")
@@ -224,7 +225,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary_bill.DataSource = dataTable;
-                dgvSalary.DataSource = dataTable;
+                
             }
 
             if (cmbSalaryBill_search.SelectedItem == "Mã giáo viên")
@@ -237,7 +238,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary_bill.DataSource = dataTable;
-                dgvSalary.DataSource = dataTable;
+               
             }
 
             if (cmbSalaryBill_search.SelectedItem == "Mã lớp học")
@@ -250,7 +251,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvSalary_bill.DataSource = dataTable;
-                dgvSalary.DataSource = dataTable;
+              
             }
         }
 

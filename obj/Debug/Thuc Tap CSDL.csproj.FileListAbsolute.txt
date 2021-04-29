@@ -122,3 +122,21 @@ D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
 D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
 D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.exe
 D:\TTCSDL\Thuc-tap-CSDL\obj\Debug\Thuc Tap CSDL.pdb
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc Tap CSDL.csprojAssemblyReference.cache
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fAttend.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fClass.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fFee.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fMain.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fLogin.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fSalary.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fStatistic.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fStudent.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.fTeacher.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc_Tap_CSDL.Properties.Resources.resources
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc Tap CSDL.csproj.GenerateResource.cache
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc Tap CSDL.csproj.CoreCompileInputs.cache
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc Tap CSDL.exe
+D:\Tai Lieu Hoc\ThucTapCSDL\done\obj\Debug\Thuc Tap CSDL.pdb
+D:\Tai Lieu Hoc\ThucTapCSDL\done\bin\Debug\Thuc Tap CSDL.exe.config
+D:\Tai Lieu Hoc\ThucTapCSDL\done\bin\Debug\Thuc Tap CSDL.exe
+D:\Tai Lieu Hoc\ThucTapCSDL\done\bin\Debug\Thuc Tap CSDL.pdb

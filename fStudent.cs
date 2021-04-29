@@ -116,7 +116,7 @@ namespace Thuc_Tap_CSDL
             }
             Display();
 
-            string sql = "select MaHocSinh, MaLopHoc from"
+            //string sql = "select MaHocSinh, MaLopHoc from"
         }
 
         private void btnStudent_edit_Click(object sender, EventArgs e)

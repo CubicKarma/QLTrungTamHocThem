@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.pnlClass = new System.Windows.Forms.Panel();
+            this.button_WOC1 = new ePOSOne.btnProduct.Button_WOC();
             this.cmbClass = new System.Windows.Forms.ComboBox();
             this.cmbLesson = new System.Windows.Forms.ComboBox();
             this.colorBorderGroupBox2 = new Thuc_Tap_CSDL.ColorBorderGroupBox();
@@ -98,7 +99,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.button_WOC1 = new ePOSOne.btnProduct.Button_WOC();
+            this.btnDSL = new ePOSOne.btnProduct.Button_WOC();
             this.pnlClass.SuspendLayout();
             this.colorBorderGroupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLesson)).BeginInit();
@@ -109,6 +110,7 @@
             // pnlClass
             // 
             this.pnlClass.BackColor = System.Drawing.Color.White;
+            this.pnlClass.Controls.Add(this.btnDSL);
             this.pnlClass.Controls.Add(this.button_WOC1);
             this.pnlClass.Controls.Add(this.cmbClass);
             this.pnlClass.Controls.Add(this.cmbLesson);
@@ -183,6 +185,30 @@
             this.pnlClass.Name = "pnlClass";
             this.pnlClass.Size = new System.Drawing.Size(1257, 773);
             this.pnlClass.TabIndex = 1;
+            // 
+            // button_WOC1
+            // 
+            this.button_WOC1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
+            this.button_WOC1.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
+            this.button_WOC1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button_WOC1.FlatAppearance.BorderSize = 0;
+            this.button_WOC1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button_WOC1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_WOC1.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
+            this.button_WOC1.ForeColor = System.Drawing.Color.Black;
+            this.button_WOC1.Location = new System.Drawing.Point(1099, 298);
+            this.button_WOC1.Margin = new System.Windows.Forms.Padding(4);
+            this.button_WOC1.Name = "button_WOC1";
+            this.button_WOC1.OnHoverBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(181)))), ((int)(((byte)(116)))));
+            this.button_WOC1.OnHoverButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(181)))), ((int)(((byte)(116)))));
+            this.button_WOC1.OnHoverTextColor = System.Drawing.Color.White;
+            this.button_WOC1.Size = new System.Drawing.Size(113, 41);
+            this.button_WOC1.TabIndex = 92;
+            this.button_WOC1.Text = "ĐIỂM DANH";
+            this.button_WOC1.TextColor = System.Drawing.Color.White;
+            this.button_WOC1.UseVisualStyleBackColor = true;
+            this.button_WOC1.Click += new System.EventHandler(this.button_WOC1_Click);
             // 
             // cmbClass
             // 
@@ -1109,29 +1135,29 @@
             this.label1.TabIndex = 33;
             this.label1.Text = "LỚP HỌC";
             // 
-            // button_WOC1
+            // btnDSL
             // 
-            this.button_WOC1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
-            this.button_WOC1.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
-            this.button_WOC1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button_WOC1.FlatAppearance.BorderSize = 0;
-            this.button_WOC1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
-            this.button_WOC1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
-            this.button_WOC1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button_WOC1.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.button_WOC1.ForeColor = System.Drawing.Color.Black;
-            this.button_WOC1.Location = new System.Drawing.Point(1087, 298);
-            this.button_WOC1.Margin = new System.Windows.Forms.Padding(4);
-            this.button_WOC1.Name = "button_WOC1";
-            this.button_WOC1.OnHoverBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(181)))), ((int)(((byte)(116)))));
-            this.button_WOC1.OnHoverButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(181)))), ((int)(((byte)(116)))));
-            this.button_WOC1.OnHoverTextColor = System.Drawing.Color.White;
-            this.button_WOC1.Size = new System.Drawing.Size(113, 41);
-            this.button_WOC1.TabIndex = 92;
-            this.button_WOC1.Text = "ĐIỂM DANH";
-            this.button_WOC1.TextColor = System.Drawing.Color.White;
-            this.button_WOC1.UseVisualStyleBackColor = true;
-            this.button_WOC1.Click += new System.EventHandler(this.button_WOC1_Click);
+            this.btnDSL.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
+            this.btnDSL.ButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(134)))), ((int)(((byte)(75)))));
+            this.btnDSL.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnDSL.FlatAppearance.BorderSize = 0;
+            this.btnDSL.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btnDSL.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.btnDSL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDSL.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
+            this.btnDSL.ForeColor = System.Drawing.Color.Black;
+            this.btnDSL.Location = new System.Drawing.Point(443, 298);
+            this.btnDSL.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDSL.Name = "btnDSL";
+            this.btnDSL.OnHoverBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(72)))), ((int)(((byte)(39)))));
+            this.btnDSL.OnHoverButtonColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(72)))), ((int)(((byte)(39)))));
+            this.btnDSL.OnHoverTextColor = System.Drawing.Color.White;
+            this.btnDSL.Size = new System.Drawing.Size(149, 38);
+            this.btnDSL.TabIndex = 93;
+            this.btnDSL.Text = "DANH SÁCH LỚP";
+            this.btnDSL.TextColor = System.Drawing.Color.White;
+            this.btnDSL.UseVisualStyleBackColor = true;
+            this.btnDSL.Click += new System.EventHandler(this.btnDSL_Click);
             // 
             // fClass
             // 
@@ -1228,5 +1254,6 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Panel panel14;
         private ePOSOne.btnProduct.Button_WOC button_WOC1;
+        private ePOSOne.btnProduct.Button_WOC btnDSL;
     }
 }

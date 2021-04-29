@@ -46,16 +46,17 @@ namespace Thuc_Tap_CSDL
             con = new SqlConnection(conString);
             con.Open();
 
-            Display();
+            string sqlCode = "SELECT top(30) * FROM HOCSINH";
+            Display(sqlCode);
             Display1();
         }
 
-        public void Display()
+        public void Display(string code)
         {
-            string sqlCode = "SELECT * FROM HOCSINH ";
+            
 
 
-            SqlCommand cmd = new SqlCommand(sqlCode, con);
+            SqlCommand cmd = new SqlCommand(code, con);
             SqlDataReader dataReader = cmd.ExecuteReader();
             DataTable dataTable = new DataTable();
 
@@ -69,7 +70,8 @@ namespace Thuc_Tap_CSDL
             if (cmbSalary_search.SelectedItem == "Mã lớp học")
             {
 
-                string sqlCode2 = "Select * from DBO.FUNC_SEARCH_HS_MAHS('" + txtFeeSearch.Text + "')";
+                //string sqlCode2 = "Select * from DBO.FUNC_SEARCH_HS_MAHS('" + txtFeeSearch.Text + "')";
+                string sqlCode2 = "Select MaLopHoc, DANHSACHLOP.MaHocSinh, TenHocSinh from HOCSINH, DANHSACHLOP where HOCSINH.MaHocSinh = DANHSACHLOP.MaHocSinh and MaLopHoc = '" + txtFeeSearch.Text + "'";
 
                 SqlCommand cmd = new SqlCommand(sqlCode2, con);
                 cmd.ExecuteNonQuery();
@@ -77,7 +79,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvFee.DataSource = dataTable;
-                Display();
+                Display(sqlCode2);
             }
 
             if (cmbSalary_search.SelectedItem == "Tên lớp học")
@@ -91,7 +93,7 @@ namespace Thuc_Tap_CSDL
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
                 dgvFee.DataSource = dataTable;
-                Display();
+                //Display();
             }
         }
 
@@ -144,7 +146,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+              
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -157,7 +159,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+               
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -170,7 +172,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+               
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -183,7 +185,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+               
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -196,7 +198,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+                
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -209,7 +211,7 @@ namespace Thuc_Tap_CSDL
                 SqlDataReader dataReader = cmd.ExecuteReader();
                 DataTable dataTable = new DataTable();
                 dataTable.Load(dataReader);
-                dgvFee.DataSource = dataTable;
+                
                 dgvSalary_bill.DataSource = dataTable;
             }
 
@@ -264,7 +266,7 @@ namespace Thuc_Tap_CSDL
             txtFeeBill_takeForDate.Text = "";
             ckbTaked.Text = "đã thu";
             txtFeeBill_search.Text= "";
-            Display();
+            //Display();
             Display1();
         }
 
@@ -276,6 +278,21 @@ namespace Thuc_Tap_CSDL
         private void txtFeeBill_search_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void dgvFee_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            //int i;
+            //i = dgvFee.CurrentRow.Index;
+            //txtFeeBill_id.Text = dgvSalary_bill.Rows[i].Cells[0].Value.ToString();
+            //txtFeeBill_studentID.Text = dgvSalary_bill.Rows[i].Cells[1].Value.ToString();
+            //txtFeeBill_classID.Text = dgvSalary_bill.Rows[i].Cells[2].Value.ToString();
+            //txtFeeBill_sumDay.Text = dgvSalary_bill.Rows[i].Cells[3].Value.ToString();
+            //txtFeeBill_feePerDay.Text = dgvSalary_bill.Rows[i].Cells[4].Value.ToString();
+            //txtFeeBill_sumFee.Text = dgvSalary_bill.Rows[i].Cells[5].Value.ToString();
+            //txtFeeBill_dateTake.Text = dgvSalary_bill.Rows[i].Cells[6].Value.ToString();
+            //txtFeeBill_takeForDate.Text = dgvSalary_bill.Rows[i].Cells[7].Value.ToString();
+            //ckbTaked.Checked = (dgvSalary_bill.Rows[i].Cells[8].Value.ToString() == "1");
         }
     }
 }

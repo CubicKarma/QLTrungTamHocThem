@@ -24,7 +24,7 @@ namespace Thuc_Tap_CSDL
                 InitializeComponent();
                 btnFee.Visible = false;
                 btnSalary.Visible = false;
-                btnStatistic.Visible = false;               
+                //btnStatistic.Visible = false;               
             }
             else InitializeComponent();
         }

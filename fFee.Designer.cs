@@ -412,6 +412,7 @@
             this.dgvFee.RowHeadersWidth = 51;
             this.dgvFee.Size = new System.Drawing.Size(585, 551);
             this.dgvFee.TabIndex = 0;
+            this.dgvFee.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvFee_CellContentClick);
             // 
             // panel16
             // 
